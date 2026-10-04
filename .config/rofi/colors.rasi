@@ -1,0 +1,103 @@
+
+* {
+    /* =====================================================
+     * Material 3 palette
+     * ===================================================== */
+
+    primary: #85d2e8;
+    primary-fixed: #aeecff;
+    primary-fixed-dim: #85d2e8;
+    on-primary: #003641;
+    on-primary-fixed: #001f26;
+    on-primary-fixed-variant: #004e5d;
+    primary-container: #004e5d;
+    on-primary-container: #aeecff;
+
+    secondary: #b2cbd3;
+    secondary-fixed: #cee7ef;
+    secondary-fixed-dim: #b2cbd3;
+    on-secondary: #1d343a;
+    on-secondary-fixed: #061f25;
+    on-secondary-fixed-variant: #344a51;
+    secondary-container: #344a51;
+    on-secondary-container: #cee7ef;
+
+    tertiary: #bfc4eb;
+    tertiary-fixed: #dee0ff;
+    tertiary-fixed-dim: #bfc4eb;
+    on-tertiary: #292e4d;
+    on-tertiary-fixed: #141937;
+    on-tertiary-fixed-variant: #3f4565;
+    tertiary-container: #3f4565;
+    on-tertiary-container: #dee0ff;
+
+    error: #ffb4ab;
+    on-error: #690005;
+    error-container: #93000a;
+    on-error-container: #ffdad6;
+
+    surface: #0f1416;
+    on-surface: #dee3e6;
+    on-surface-variant: #bfc8cb;
+
+    outline: #899295;
+    outline-variant: #3f484b;
+
+    shadow: #000000;
+    scrim: #000000;
+
+    inverse-surface: #dee3e6;
+    inverse-on-surface: #2c3133;
+    inverse-primary: #00687b;
+
+    surface-dim: #0f1416;
+    surface-bright: #343a3c;
+
+    surface-container-lowest: #090f11;
+    surface-container-low: #171c1e;
+    surface-container: #1b2022;
+    surface-container-high: #252b2d;
+    surface-container-highest: #303638;
+
+
+    /* =====================================================
+     * Rofi semantic aliases
+     * ===================================================== */
+
+    /* Main glass background */
+    bg: #0f14164D;
+
+    /* Slightly elevated glass surface */
+    bg-container: #1b2022D9;
+
+    /* Higher contrast container */
+    bg-container-high: #252b2dE6;
+
+    /* Subtle separators */
+    separator: #3f484b80;
+
+    /* Main text */
+    fg: #dee3e6;
+
+    /* Secondary / muted text */
+    fg-muted: #bfc8cb;
+
+    /* Very subtle text */
+    fg-subtle: #899295;
+
+    /* Main accent */
+    accent: #85d2e8;
+
+    /* Selected item */
+    selected-bg: #004e5dE6;
+    selected-fg: #aeecff;
+
+    /* Hover / active item */
+    active-bg: #004e5d80;
+    active-fg: #aeecff;
+
+    /* Error */
+    error-bg: #93000a;
+    error-fg: #ffdad6;
+}
+
