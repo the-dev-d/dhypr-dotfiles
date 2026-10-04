@@ -18,7 +18,7 @@ output_path = '~/.config/swaync/colors.css'
 post_hook = "pkill swaync; swaync & disown"
 
 [templates.hyprlock]
-input_path = "~/.config/matugen/templates/hyprland-colors.conf"
+input_path = "~/.config/matugen/templates/hyprlock-colors.conf"
 output_path = "~/.config/hypr/colors.conf"
 
 [templates.quickshell]
